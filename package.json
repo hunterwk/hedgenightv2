@@ -45,10 +45,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hunterwk/hedgenight.git"
+    "url": "git+https://github.com/hunterwk/hedgenightv2.git"
   },
   "bugs": {
-    "url": "https://github.com/hunterwk/hedgenight/issues"
+    "url": "https://github.com/hunterwk/hedgenightv2/issues"
   },
   "homepage": "https://github.com/hunterwk/hedgenight#readme"
 }

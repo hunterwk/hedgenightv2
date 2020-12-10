@@ -14,7 +14,7 @@ if (!process.env.SERVER_SECRET) {
   throw new Error("SERVER_SECRET is not set.");
 }
 
-const uri = process.env.MONGODB_URI || "mongodb://localhost/hedgenight";
+const uri = process.env.MONGODB_URI || "mongodb://localhost/hedgenightv2";
 mongoose.connect(uri, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
